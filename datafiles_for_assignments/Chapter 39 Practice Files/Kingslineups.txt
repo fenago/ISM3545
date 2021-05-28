@@ -1,0 +1,19 @@
+Bibby       Christie    Divac       Stojakovic  Webber        -0.23  1009# 17.65m  HOU  SAC*
+Clark       B. Jackson  Pollard     Turkoglu    J. Jackson    64.38  1009#  7.75m  HOU  SAC*
+Bibby       Christie    Pollard     Stojakovic  Webber        13.28  1009#  7.68m  HOU  SAC*
+Christie    B. Jackson  Pollard     Webber      J. Jackson   -24.10  1009#  6.08m  HOU  SAC*
+Bibby       Divac       B. Jackson  Stojakovic  Webber        30.01  1009#  3.32m  HOU  SAC*
+B. Jackson  Pollard     Stojakovic  Webber      J. Jackson  -136.39  1009#  2.17m  HOU  SAC*
+Bibby       B. Jackson  Pollard     Stojakovic  Webber        65.81  1009#  2.15m  HOU  SAC*
+Clark       B. Jackson  Pollard     Stojakovic  Turkoglu    -140.28  1009#  0.67m  HOU  SAC*
+Christie    Divac       B. Jackson  Stojakovic  Webber      -726.75  1009#  0.46m  HOU  SAC*
+Bibby       Christie    B. Jackson  Stojakovic  Webber      1303.82  1009#  0.07m  HOU  SAC*
+Bibby       Christie    Divac       Stojakovic  Webber        18.10  1002# 24.30m  POR  SAC*
+Bibby       Clark       B. Jackson  Pollard     J. Jackson    63.89  1002#  4.70m  POR  SAC*
+Christie    Clark       B. Jackson  Webber      J. Jackson  -101.31  1002#  4.17m  POR  SAC*
+Divac       B. Jackson  Stojakovic  Webber      J. Jackson    -6.53  1002#  3.65m  POR  SAC*
+Bibby       B. Jackson  Pollard     Webber      J. Jackson   -32.71  1002#  2.92m  POR  SAC*
+Bibby       Divac       B. Jackson  Stojakovic  Webber        42.25  1002#  2.75m  POR  SAC*
+Christie    Clark       B. Jackson  Stojakovic  Webber        40.77  1002#  1.67m  POR  SAC*
+Bibby       Clark       B. Jackson  Pollard     Stojakovic    35.96  1002#  1.52m  POR  SAC*
+Bibby       Christie    Stojakovic  Webber      J. Jackson   -53.27  1002#  0.80m  POR  SAC
